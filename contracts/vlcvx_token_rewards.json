@@ -1,7 +1,7 @@
 {
     "spell": [
         {
-            "token": "0x090185f2135308bad17527004364ebcc2d37e5f6",
+            "token": 0x000000000000000000000000000000000000dead",
             "value": "98822464416685389219575390",
             "tx": "0xac62da3aae46d31334de6c095b01195cba154a1e9dd71aadda5e01a1b6360f00",
             "receivedEpoch": 1,
