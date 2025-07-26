@@ -1,6 +1,6 @@
 {
     "system": {
-        "deployer"0x000000000000000000000000000000000000dead",
+        "deployer"0x68ddc4a2ed149ff71d4fed70bb63e53bb4c37f3d",
         "multisig": "0xa3C5A1e09150B75ff251c1a7815A07182c3de2FB",
         "voteProxy": "0x989AEb4d175e16225E39E87d0D97A3360524AD80",
         "voteProxyOwner": "0x2B83552729067D1c32A2a31024776BD83c48816e",
